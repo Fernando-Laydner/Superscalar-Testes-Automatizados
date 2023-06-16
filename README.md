@@ -9,10 +9,10 @@ Só jogar esse arquivo pra dentro da pasta do Superscalar, e trocar ali dentro d
 sudo apt install python3
 ~~~
 
-'''
+~~~
 pip install pandas tqdm
-'''
+~~~
 
-'''python3 "Superscalar Testes Automatizados.py"'''
+~~~python3 "Superscalar Testes Automatizados.py"~~~
 
 Acho que isso é tudo.
