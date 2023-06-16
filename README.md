@@ -5,7 +5,9 @@ Só jogar esse arquivo pra dentro da pasta do Superscalar, e trocar ali dentro d
 
 # Lembrando que vão ter que instalar o python e as bibliotecas pandas e tqdm. 
 
-'''sudo apt install python3'''
+~~~
+sudo apt install python3
+~~~
 
 '''pip install pandas tqdm'''
 
