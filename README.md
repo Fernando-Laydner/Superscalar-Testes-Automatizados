@@ -13,6 +13,8 @@ sudo apt install python3
 pip install pandas tqdm
 ~~~
 
-~~~python3 "Superscalar Testes Automatizados.py"~~~
+~~~
+python3 "Superscalar Testes Automatizados.py"
+~~~
 
 Acho que isso é tudo.
